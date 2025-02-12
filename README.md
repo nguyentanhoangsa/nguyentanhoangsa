@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tan Hoang Sa</h1>
 <h3 align="center">A mobile developer with a passion for building innovative applications</h3>
-<h5 align="center">
+<h3 align="center">
   📧 Contact me: 
   <a href="mailto:nguyentanhoangsa@gmail.com">nguyentanhoangsa@gmail.com</a>
-</h5>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
